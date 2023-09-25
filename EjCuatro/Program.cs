@@ -12,7 +12,7 @@ namespace EjCuatro
             int indiceArt;
 
             /* Me había faltado agregar este for para que el acumulador de cada tipo de articulo del nro 1 al 15 
-            se inicialice en 0, igual funciona sino lo hao, pero es importante siempre inicializar contadores y
+            se inicialice en 0, igual funciona sino lo hago, pero es importante siempre inicializar contadores y
             acumuladores. */
 
             for(int x = 0; x < 15; x++)

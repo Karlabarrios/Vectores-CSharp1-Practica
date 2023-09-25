@@ -11,7 +11,7 @@ namespace EjDos
 
             for(int x = 0; x < 10; x++)
             {
-                Console.WriteLine("Ingresa un divertido número:");
+                Console.WriteLine("Ingresa un número:");
                 nros[x] = int.Parse(Console.ReadLine());
                 acu += nros[x];
             }
@@ -28,7 +28,7 @@ namespace EjDos
                     
             }
 
-            Console.WriteLine("Fin del programa, omg");
+            Console.WriteLine("Fin del programa");
         }
     }
 }
